@@ -13,6 +13,7 @@ Twenty years on the revenue side, most recently running the CRM across Salesforc
 - **GTM data-quality pipeline** · [repo](https://github.com/IsraelStratton/gtm-enrichment-quality-pipeline) · [demo (2:45)](https://israel-stratton.dubb.com/v/j44nZF)\
   Clay → n8n → HubSpot with seven data-quality rules, a quarantine table and 49 automated tests. 25 rows in: 12 loaded clean, 3 loaded with a flag, 10 quarantined; second run 15 updated, 0 created.
 - **How I'd run AI safely inside revenue and IT operations** · [one-pager](https://claude.ai/artifact/CTHqayQ3FbHJYvRvBKMH6v)
+- **What I bring from day one** · [the full write-up](https://israelstratton.notion.site/What-I-bring-from-day-one-the-full-write-up-40e7ffb041d781479a89e2c1a43308b7)
 
 ## Four things I've shipped
 
@@ -26,6 +27,10 @@ Twenty years on the revenue side, most recently running the CRM across Salesforc
 - **2023–2026 · CRM Specialist, Revenue Operations** · workforce-management SaaS, remote. Seated in IT Operations: CRM ownership (HubSpot Super Admin, SugarCRM, DealHub CPQ, Seismic) plus Okta/SSO, SharePoint, Zoom and Confluence administration.
 - **2021–2023 · Salesforce CRM Administrator** · building-products distributor. Sole admin, Sales and Service Cloud.
 - **2005–2021 · B2B sales and business development** · where the CRM track started, running Zoho for a sales territory.
+
+## About me
+
+I came to CRM administration from sixteen years of selling, which is why I care more about whether the data is right than whether the system looks right. The last five years have been CRM administration and RevOps across five platforms, the last three inside an IT team, so I'm as comfortable with an SSO ticket as with a HubSpot workflow. I work remotely from the Northern Rivers in New South Wales, and I'm available now.
 
 ## Skills
 
