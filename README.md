@@ -8,9 +8,9 @@ Twenty years on the revenue side, most recently running the CRM across Salesforc
 
 ## Demos and code
 
-- **CRM Admin Process Library — 36 runbook skills** · [demo (3:30)](https://israel-stratton.dubb.com/v/jmCUqj) · [browse the library](https://israelstratton.notion.site/CRM-Admin-Process-Library-40e7ffb041d781918d36d0fecdb204e4)
+- **CRM Admin Process Library — 36 runbook skills** · [demo (3:30)](https://israel-stratton.dubb.com/v/jmCUqj) · [browse the library](https://israelstratton.notion.site/CRM-Admin-Process-Library-40e7ffb041d781918d36d0fecdb204e4)\
   36 CRM admin runbook skills, one per admin process: access, configuration, automations, data, integrations, CPQ, forecasting, reporting, service and licensing. Each has an ordered checklist, decision points, an approval step before every change, rollback and a comms plan, with the AI-assisted steps marked. Works on any CRM once a few blanks are filled in.
-- **GTM data-quality pipeline** · [repo](https://github.com/IsraelStratton/gtm-enrichment-quality-pipeline) · [demo (2:45)](https://israel-stratton.dubb.com/v/j44nZF)
+- **GTM data-quality pipeline** · [repo](https://github.com/IsraelStratton/gtm-enrichment-quality-pipeline) · [demo (2:45)](https://israel-stratton.dubb.com/v/j44nZF)\
   Clay → n8n → HubSpot with seven data-quality rules, a quarantine table and 49 automated tests. 25 rows in: 12 loaded clean, 3 loaded with a flag, 10 quarantined; second run 15 updated, 0 created.
 - **How I'd run AI safely inside revenue and IT operations** · [one-pager](https://claude.ai/artifact/CTHqayQ3FbHJYvRvBKMH6v)
 
