@@ -48,4 +48,7 @@ I came to CRM and revenue systems from sixteen years of selling, which is why I 
 > "He knows SugarCRM inside out and is great at explaining it in plain terms."
 > — Sudipto Prodhan, Senior Software Engineer (same team), LinkedIn recommendation
 
+> "His ability to bring clarity and structure to complex CRM processes and systems is a real strength … a knowledgeable, dependable CRM and systems specialist who combines strong technical capability with an exceptional eye for detail."
+> — Cynthia Ong, Commercial Finance and FP&A Leader (same team), LinkedIn recommendation
+
 References available on request.
