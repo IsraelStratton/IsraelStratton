@@ -51,6 +51,9 @@ I came to CRM and revenue systems from sixteen years of selling, which is why I 
 > "His ability to bring clarity and structure to complex CRM processes and systems is a real strength … a knowledgeable, dependable CRM and systems specialist who combines strong technical capability with an exceptional eye for detail."
 > — Cynthia Ong, Commercial Finance and FP&A Leader (same team), LinkedIn recommendation
 
+> "His extensive knowledge of CRM systems and technical expertise really stand out, particularly in designing workflows, translating business requirements across Sales, Finance and other functions … He's someone you can genuinely rely on to get things done."
+> — Iris Liu, Data Analyst & Engineer (worked with Israel across teams), LinkedIn recommendation
+
 > "He brought a wealth of CRM knowledge to the team and had a real talent for making things easier for others … One thing I particularly appreciated was his willingness to take ownership and see things through."
 > — Samyuktha Chitturi, Business Applications Specialist (same team), LinkedIn recommendation
 
