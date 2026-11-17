@@ -8,7 +8,7 @@ I own the systems a revenue team runs on, CRM, CPQ and the integrations between 
 
 ## Four things I've shipped
 
-- **Data that's right · SugarCRM → HubSpot migration (2026).** Led it end to end: scoped the data model, re-typed and reconciled tens of thousands of deal and quote records with row-level verification, then decommissioned Sugar. HubSpot deal values matched what was quoted, with zero data loss and no manual rework after cut-over.
+- **Data that's right · SugarCRM → HubSpot migration (2026).** Led it end to end: scoped the data model, reconciled Accounts, Contacts, Deals and Quotes, then decommissioned Sugar. HubSpot deal values matched what was quoted, with zero data loss and no manual rework after cut-over.
 - **Quoting that's clean · Quote-to-cash and CPQ (DealHub, 2024–25).** Restructured the product catalogue and suite packaging, then designed and configured the CPQ implementation: quoting, validation and approval models, ACV/ARR/MRR logic.
 - **Quoting that's clean · Salesforce automation (2021–23).** Sole Salesforce admin across Sales and Service Cloud. Cut opportunity, quote and product creation from up to 30 minutes to under 2, with gross-profit reporting by user, territory and store.
 - **Automation people can trust · AI assistants in production (2025–26).** Built a portfolio of production assistants for the admin team (CRM admin, FAQ and knowledge base, document-template investigator, deal-value validators) and led an AI CPQ MVP on HubSpot + Make + Claude.
