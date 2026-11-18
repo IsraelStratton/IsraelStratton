@@ -2,7 +2,7 @@
 
 Remote, Australia · available now · [Portfolio hub](https://israelstratton.notion.site/Israel-Stratton-4087ffb041d781848c03fb9b55eaeb29) · [LinkedIn](https://www.linkedin.com/in/israel-stratton/) · israelstratton@gmail.com
 
-I own the systems a revenue team runs on, CRM, CPQ and the integrations between them, so the data is right, quoting is clean and the automation is something people can trust. Five years hands-on across Salesforce, HubSpot, SugarCRM and DealHub CPQ, after sixteen in sales, so I build around how selling actually works. I use AI to do it faster, with a person approving every change, and I arrive with 36 CRM admin runbook skills, ready to run on any CRM from day one.
+I own the systems a revenue team runs on, CRM, CPQ and the integrations between them, so the data is right, quoting is clean and the automation is something people can trust. Nearly six years of full-time CRM administration across Salesforce, HubSpot, SugarCRM and DealHub CPQ, and two years part-time before that, after sixteen in sales, so I build around how selling actually works. I use AI to do it faster, with a person approving every change, and I arrive with 36 CRM admin runbook skills, ready to run on any CRM from day one.
 
 **Certifications:** Salesforce ×7 (Platform Administrator, Platform Administrator II, Platform App Builder, Platform Foundations, Business Analyst, Agentforce Sales Consultant, Agentforce Service Consultant) · Trailhead Double Star Ranger, 4 Flow superbadges · HubSpot Academy ×3 (Revenue Operations, Data Integrations, Salesforce Integration) · Certified Sugar Administration Specialist · DealHub Certified Admin · Seismic Certified Site Administrator
 
@@ -30,7 +30,7 @@ I own the systems a revenue team runs on, CRM, CPQ and the integrations between 
 
 ## About me
 
-I came to CRM and revenue systems from sixteen years of selling, which is why I care more about whether the data is right than whether the system looks right. The last five years have been CRM administration and RevOps across five platforms, the last three inside an IT team, so I'm as comfortable with an SSO ticket as with a HubSpot workflow. I work remotely from the Northern Rivers in New South Wales, and I'm available now.
+I came to CRM and revenue systems from sixteen years of selling, which is why I care more about whether the data is right than whether the system looks right. I have spent nearly six years in full-time CRM administration and RevOps across five platforms, with two years part-time before that, and the last three inside an IT team, so I'm as comfortable with an SSO ticket as with a HubSpot workflow. I work remotely from the Northern Rivers in New South Wales, and I'm available now.
 
 ## Skills
 
