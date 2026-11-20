@@ -4,7 +4,7 @@ Remote, Australia · available now · [Portfolio hub](https://israelstratton.not
 
 I own the systems a revenue team runs on, CRM, CPQ and the integrations between them, so the data is right, quoting is clean and the automation is something people can trust. Nearly six years of full-time CRM administration across Salesforce, HubSpot, SugarCRM and DealHub CPQ, and two years part-time before that, after sixteen in sales, so I build around how selling actually works. I use AI to do it faster, with a person approving every change, and I arrive with 36 CRM admin runbook skills, ready to run on any CRM from day one.
 
-**Certifications:** Salesforce ×7 (Platform Administrator, Platform Administrator II, Platform App Builder, Platform Foundations, Business Analyst, Agentforce Sales Consultant, Agentforce Service Consultant) · Trailhead Double Star Ranger, 4 Flow superbadges · HubSpot Academy ×3 (Revenue Operations, Data Integrations, Salesforce Integration) · Certified Sugar Administration Specialist · DealHub Certified Admin · Seismic Certified Site Administrator
+**Certifications:** Salesforce ×7 (Platform Administrator, Platform Administrator II, Platform App Builder, Platform Foundations, Business Analyst, Agentforce Sales Consultant, Agentforce Service Consultant) · Trailhead Double Star Ranger, 4 Flow superbadges · Agentforce trail and service agent build, 2026 · HubSpot Academy ×3 (Revenue Operations, Data Integrations, Salesforce Integration) · Certified Sugar Administration Specialist · DealHub Certified Admin · Seismic Certified Site Administrator
 
 ## Four things I've shipped
 
